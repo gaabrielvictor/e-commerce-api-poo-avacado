@@ -242,5 +242,5 @@ Para evitar erros de referência, siga essa ordem:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gabriel** — UNIFACISA  
+Desenvolvido por **Gabriel**, **Ramon** & **Angela** — UNIFACISA  
 Disciplina: POO Avançado — Prof. Samara
